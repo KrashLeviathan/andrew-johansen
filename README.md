@@ -1,5 +1,3 @@
-# [Andrew Johansen Website](http://krashleviathan.github.io/andrew-johansen)
-
 ## February 2016
 
 This site was designed by Andrew Johansen and developed by me, Nathan Karasch.
@@ -12,8 +10,7 @@ to accomplish with the new website, so it seemed best to hand it off to someone
 who could give it enough attention to complete it. Andrew was a great guy to
 work with, and I hope his drumming career takes off!
 
-I've got my 95% complete version of the site
-[posted here](http://krashleviathan.github.io/andrew-johansen),
+I've got my 95% complete version of the site ~~posted here~~ (link removed),
 but when he finally launches the real thing, I'll stick a link to that site
 on here as well.
 
@@ -22,9 +19,16 @@ on here as well.
 ## July 2016
 
 I checked in on the status of Andrew's website, and you can see it live
-[here!](http://www.andrewjohansenmusic.com/)
+~~here~~ (link removed).
 I'm happy that he finally got it up and running. There are some minor
 differences between the final design and my version, but overall I'm happy
 I was able to contribute. Congrats Andrew, and best of luck to you!
+
+\- Nate
+
+## April 2017
+
+Andrew is moving his site to SquareSpace, so I've removed my GitHub Pages
+version of the site and any links to his old site.
 
 \- Nate
